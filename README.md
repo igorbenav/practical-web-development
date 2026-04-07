@@ -12,7 +12,7 @@ An open book that teaches web development starting from how HTTP works, through 
 
 Assumes Python knowledge. No prior web experience needed.
 
-**[Read the English version (PDF)](docs/en/Practical-Web-Development-(en).pdf)**
+**[Read the English version (PDF)](docs/en/Practical-Web-Development.pdf)**
 
 </div>
 
